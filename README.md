@@ -1,27 +1,31 @@
-#🚀 Application de Chat API - PHP
-##📌 Description
-Cette application est une API de chat simple développée en PHP. Elle permet aux utilisateurs de s'authentifier, d'envoyer et de recevoir des messages en temps réel, et de gérer des conversations. L'API est conçue pour être utilisée avec un frontend (par exemple, une application web ou mobile).
+# 🚀 Application de Chat API - PHP
 
-##🚀 Fonctionnalités
-🔑 Authentification utilisateur : Connexion et inscription sécurisées.
+## 📌 Description
 
-💬 Gestion des messages : Envoi, réception et stockage des messages.
+Cette application est une **API** de chat simple développée en **PHP**. Elle permet aux utilisateurs de s'authentifier, d'envoyer et de recevoir des messages en temps réel, et de gérer des conversations. L'API est conçue pour être utilisée avec un frontend (par exemple, une application web ou mobile).
 
-👥 Gestion des utilisateurs : Liste des utilisateurs en ligne et historique des conversations.
+## 🚀 Fonctionnalités
 
-📋 Historique des messages : Récupération des messages précédents.
+### 🔑 Authentification utilisateur : Connexion et inscription sécurisées.
 
-🔒 Sécurité : Protection des routes et validation des données.
+### 💬 Gestion des messages : Envoi, réception et stockage des messages.
 
-##🛠️ Technologies utilisées
-Backend : PHP (avec MySQL)
+### 👥 Gestion des utilisateurs : Liste des utilisateurs en ligne et historique des conversations.
 
-Base de données : MySQL
+### 📋 Historique des messages : Récupération des messages précédents.
 
-API : RESTful API
+### 🔒 Sécurité : Protection des routes et validation des données.
 
-##🎯 Installation
-###1️⃣ Cloner le projet
+## 🛠️ Technologies utilisées
+
+**Backend** : PHP (avec MySQL)
+
+**Base de données** : MySQL
+
+**API** : RESTful API
+
+## 🎯 Installation
+### 1️⃣ Cloner le projet
 bash
 Copy
 git clone https://github.com/vortix-dev/app-chat-api-php.git
