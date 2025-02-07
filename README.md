@@ -25,8 +25,8 @@ Cette application est une **API** de chat simple développée en **PHP**. Elle p
 **API** : RESTful API
 
 ## 🎯 Installation
-### 1️⃣ Cloner le projet
-bash
-Copy
+### 1️⃣ **Cloner le projet**
+
+```sh
 git clone https://github.com/vortix-dev/app-chat-api-php.git
 cd app-chat-api-php
