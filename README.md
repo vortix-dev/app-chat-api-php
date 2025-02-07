@@ -6,15 +6,15 @@ Cette application est une **API** de chat simple développée en **PHP**. Elle p
 
 ## 🚀 Fonctionnalités
 
-### 🔑 Authentification utilisateur : Connexion et inscription sécurisées.
+**🔑 Authentification utilisateur** : Connexion et inscription sécurisées.
 
-### 💬 Gestion des messages : Envoi, réception et stockage des messages.
+**💬 Gestion des messages** : Envoi, réception et stockage des messages.
 
-### 👥 Gestion des utilisateurs : Liste des utilisateurs en ligne et historique des conversations.
+**👥 Gestion des utilisateurs** : Liste des utilisateurs en ligne et historique des conversations.
 
-### 📋 Historique des messages : Récupération des messages précédents.
+**📋 Historique des messages** : Récupération des messages précédents.
 
-### 🔒 Sécurité : Protection des routes et validation des données.
+**🔒 Sécurité** : Protection des routes et validation des données.
 
 ## 🛠️ Technologies utilisées
 
