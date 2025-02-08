@@ -1,5 +1,6 @@
 <?php
 require 'connect.php';
+header("Content-Type: application/json");
 
 if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_SESSION['User'])) {
     $sender = $_SESSION['User'] ['id'];
@@ -27,6 +28,5 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_SESSION['User'])) {
         }
     }        
 }
-
 echo json_encode($response);
 
